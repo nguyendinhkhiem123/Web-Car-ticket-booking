@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin/list-order.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/admin/list-user.jsp=UTF-8
+encoding//src/admin/controller/ListBooking.java=UTF-8
+encoding//src/admin/controller/ListOrder.java=UTF-8
+encoding//src/admin/controller/ListUser.java=UTF-8
+encoding//src/admin/controller/ThongKe.java=UTF-8
+encoding//src/home/controller/ListChiTiet.java=UTF-8
+encoding//src/home/controller/home.java=UTF-8
+encoding//src/login/controller/CreateaccountController.java=UTF-8
+encoding//src/login/controller/LoginController.java=UTF-8
